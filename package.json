@@ -2,7 +2,7 @@
   "name": "404_challenge",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.php",
   "author": "ezepdev",
   "license": "ISC"
 }
